@@ -1,9 +1,9 @@
-var fruits = ["Apple"];
+var fruit = ["Apple"];
 
-  fruits.slice(0,0,"Pineapple","Lemon");
-  fruits.slice(4,0,"Orange","Peach");
+  fruit.slice(0,0,"Pineapple","Lemon");
+  fruit.slice(3,0,"Orange","Peach");
 
-document.write(fruits);
+document.write(fruit);
 
 
 
